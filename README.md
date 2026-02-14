@@ -12,6 +12,7 @@
 ### What does NOT work
 |Type|Name|Note
 |---|---|---|
+|Built-in Wi-Fi|Some unknown Realtek|Realtek. That says it all. Don't even remember its name|
 |dGPU|Nvidia GTX 1650|Had to disable with custom SSDT-dGPU-Off.aml (also with -wegnoegpu boot flag)|
 |Trackpad|ELAN 0627|Pure devil's shit. See comments below|
 |Wake|❌|See comments below|
