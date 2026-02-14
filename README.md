@@ -19,7 +19,7 @@
 ### Additional notes
 
 #### Trackpad
-Spent 2 days trying to figure out how to get it work (patched ELAN0626 via GPIO 0x4B, tried -vi2c-force-polling boot-arg and VoodooI2CELAN.kext).
+Spent 2 days trying to figure out how to get it work (patched ELAN0626 via GPIO 0x4B, tried -vi2c-force-polling boot argument and VoodooI2CELAN.kext).
 It wasn't worth the hassle. The best behavior I've got was unusable drunk-drifting cursor
 
 #### Wake
