@@ -1,0 +1,1 @@
+# lenovo-l340-15irh-hackintosh-efi
